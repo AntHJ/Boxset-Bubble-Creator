@@ -23,9 +23,9 @@ for the movie theme tunes you can goto [YouTube](https://www.youtube.com/results
 
 ![](https://github.com/AntHJ/Boxset-Bubble-Creator/blob/main/JW2.jpg)
 
->EXAMPLE BOXSET : [JOHN WICK](https://github.com/AntHJ/Boxset-Bubble-Creator/releases/download/v1/JOHNWICK0.-.John.Wick.vpk) (this does NOT contain any video files)
+>EXAMPLE BOXSET : [JOHN WICK](https://github.com/AntHJ/Boxset-Bubble-Creator/blob/main/JOHNWICK0%20-%20John%20Wick.vpk) (this does NOT contain any video files)
 
->EXAMPLE BOXSET : [SPIDER-MAN](https://github.com/AntHJ/Boxset-Bubble-Creator/releases/download/v1/SPIDERMAN.-.Spider-Man.vpk) (this does NOT contain any video files)
+>EXAMPLE BOXSET : [SPIDER-MAN](https://github.com/AntHJ/Boxset-Bubble-Creator/blob/main/SPIDERMAN%20-%20Spider-Man.vpk) (this does NOT contain any video files)
 
 ------
 ## The Tools (main-menu)
